@@ -1,0 +1,2 @@
+Every Go program start with a package declaration.  
+Package main is required for a standalone executable.
